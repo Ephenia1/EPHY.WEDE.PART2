@@ -26,7 +26,8 @@ My web development sumbission for part 2
 
 During Part 2, the website developed from the basic HTML foundation created in Part 1 into a more complete visual design. CSS was introduced to control the layout, typography, colours, spacing and appearance of the website. Responsive design techniques were also implemented to ensure that the website could adapt to different screen sizes and devices.
 
-The website was reviewed from a user-experience perspective, with improvements made to readability, navigation, accessibility, consistency and visual presentation. These changes built upon the planning, research, HTML structure and file organisation completed 
+The website was reviewed from a user-experience perspective, with improvements made to readability, navigation, accessibility, consistency and visual presentation. These changes built upon the planning, research, HTML structure and file organisation completed
+during Part 1 while preparing the website for further development in the following stages of the POE.
 
-THIS IS WHATduring Part 1 while preparing the website for further development in the following stages of the POE.
-
+THIS IS WHAT THE WEBSITE IS EXPECTED TO LOOK LIKE
+<img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/e75edc18-9ce8-4e3d-a14e-34323493fcc0" />
